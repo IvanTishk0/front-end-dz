@@ -1,0 +1,10 @@
+.link {
+    text-decoration: none;
+    color: var(--text-color);
+    transition: color 0.5s linear;
+}
+
+.link:hover {
+    cursor: pointer;
+    color: var(--secondary-color);
+}

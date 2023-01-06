@@ -1,0 +1,17 @@
+{
+    "name": "Blog App",
+    "short_name": "Blog",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "sizes": "500x500",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }

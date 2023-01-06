@@ -16,6 +16,12 @@
     color: azure;
 }
 
+.main__info {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
 .cards {
     gap: 50px;
     padding: 30px;

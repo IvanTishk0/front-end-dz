@@ -1,0 +1,21 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: min(100%, 400px);
+    margin: auto;
+    height: 100vh;
+    gap: 30px;
+}
+
+.form__input {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form a {
+    color: var(--secondary-color);
+}
